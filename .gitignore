@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+.env
+database/*
+!database/.gitkeep
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS + IDE stuff
+.DS_Store
+.vscode/
